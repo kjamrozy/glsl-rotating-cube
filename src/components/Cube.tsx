@@ -8,7 +8,6 @@ const Canvas = styled.canvas`
   height: 100%;
 `;
 
-// FIXME: Duplicated type
 type Point = { x: number, y: number };
 
 export default function Cube() {
